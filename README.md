@@ -110,7 +110,7 @@ After model completion, it is trained for 20 epochs to achieve an accuracy of `9
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/rppradhan08/face-mask-detection"><img src="https://raw.githubusercontent.com/rppradhan08/face-mask-detection/master/images/Loss and accuracy curves.png" alt="metric_curves" width="400" style="border-radius: 50px"></a>
+  <a href="https://github.com/rppradhan08/face-mask-detection"><img src="https://raw.githubusercontent.com/rppradhan08/face-mask-detection/master/images/Loss and accuracy curves.png" alt="metric_curves" width="400" style="border-radius: 100px"></a>
 </h1>
 
 ## Evaluating the CNN Classifier
