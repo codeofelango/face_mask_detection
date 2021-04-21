@@ -1,0 +1,40 @@
+CREATE ENVIRONMENT:-
+
+1. Creating Environment:
+-> conda create -n carprediction python=3.6
+2. List all Environments:
+-> conda env list
+3. Activating an Environment:
+-> conda activate carprediction
+4. To display all installed packages inside an environment
+-> conda list
+-----------------------------------------------------------------------------------------------------------
+
+Alternate Method to create virtual environment:-
+
+1. First move to project folder, then using "venv" create virtual environment
+	$ python3 -m venv env
+	$ env/Scripts/activate.bat
+	$ deactivate
+
+2. Install packages using $pip install <package> command.
+3. Save all the packages in the file with $ pip freeze > requirements.txt
+4. Pin all the package versions. ...
+5. Add requirements.
+
+-----------------------------------------------------------------------------------------------------------
+
+1> Extract data from Kraggle 
+2> Perform EDA:
+	- Data Cleaning
+	- Univariate/Bivariate/Multi-Variate Analysis 
+	- Feature Selection
+3> Model Selection for Regression Problem
+4> Model Optimization
+5> Create Frontend for project Deployment
+6> Save the output of a project to database or excel
+7> Deploying the application on Heruko, AWS, Google Cloud or Azure.
+
+
+Reference:-
+https://www.youtube.com/watch?v=p_tpQSY1aTs&list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna
