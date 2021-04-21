@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/rppradhan08/face-mask-detection"><img src="https://raw.githubusercontent.com/rppradhan08/face-mask-detection/master/images/Facemask-Detection_2.png" alt="Face Mask Detector" width="400" style="border-radius: 50px"></a>
+  <a href="https://github.com/rppradhan08/face-mask-detection"><img src="https://raw.githubusercontent.com/rppradhan08/face-mask-detection/master/images/Facemask-Detection_2.jpg" alt="Face Mask Detector" width="400" style="border-radius: 50px"></a>
   <br>
   Real-time Face Mask Detector
   <br>
